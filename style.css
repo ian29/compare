@@ -42,11 +42,15 @@ body,
 }
 #osm {
   float: left;
-  width: 50%;
+  width: 33%;
   }
 #google {
   float: left;
-  width: 50%;
+  width: 33%;
+  }
+#waze {
+  float: left;
+  width: 33%;
   }
 #search {
   text-align: right;
